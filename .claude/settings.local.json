@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "WebSearch",
+      "WebFetch(domain:repositum.tuwien.at)",
+      "Bash(cd \"D:/AntoniaMariaG/CV-Antonia-Golab---v250226\" && pdflatex main.tex 2>&1)"
+    ]
+  }
+}
